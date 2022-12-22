@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mock.tangce.cn	TRUE	/	FALSE	1999999999	acw_tc	2760778516716997181613995ed664d87c306d7270ad6a3f5bed9895f32589
+mock.tangce.cn	TRUE	/	FALSE	1999999999	JSESSIONID	A26984B844E919B196D2FF6A521B02DE
+
